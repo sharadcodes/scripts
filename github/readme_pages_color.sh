@@ -5,7 +5,6 @@ if [ -f $FILE ]; then
    echo "File $FILE exists."
 else
 	touch colors.md
-	chmod +x colors.md
 fi
 
 read -p 'color code: ' input_color
