@@ -22,3 +22,10 @@
     ```bash
     crontab -l
     ```
+    It will show something like this
+    ```bash
+    sharad@mypc:~$ crontab -l
+    # m h  dom mon dow   commando
+    */15 * * * * /usr/bin/python3 /home/sharad/Documents/disk_status.py
+    dojo@machine-0:~$ 
+    ```
