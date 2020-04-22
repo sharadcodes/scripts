@@ -1,2 +1,2 @@
 # scripts
-A repo of some useful scripts for linux users
+A repo of some useful scripts for linux & window users
