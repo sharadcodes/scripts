@@ -1,2 +1,2 @@
-# bash_scripts
-A repo of some useful bash scripts for geeks
+# scripts
+A repo of some useful scripts for linux users
