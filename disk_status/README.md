@@ -4,6 +4,8 @@
 
 
 1. Save the file `disk_status.py` at a safe place
+
+    [Download disk_status.py](https://github.com/sharadcodes/scripts/blob/master/disk_status/disk_status.py)
 2. Open your terminal type-
     ```bash
     crontab -e
