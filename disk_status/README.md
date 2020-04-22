@@ -6,7 +6,7 @@
 1. Save the file `disk_status.py` at a safe place
 
     [Download disk_status.py](https://github.com/sharadcodes/scripts/blob/master/disk_status/disk_status.py)
-2. Open your terminal type-
+2. Open your terminal run-
     ```bash
     crontab -e
     ```
@@ -20,7 +20,7 @@
     ```bash
     */15 * * * * /usr/bin/python3 /home/sharad/Documents/disk_status.py
     ```
-4. Check the corn job using following
+4. Check the corn job using following command
     ```bash
     crontab -l
     ```
