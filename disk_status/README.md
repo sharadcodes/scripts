@@ -30,3 +30,9 @@
     # m h  dom mon dow   commando
     */15 * * * * /usr/bin/python3 /home/sharad/Documents/disk_status.py
     ```
+5. That's it now it will notify you if your disk usage of / exceeds 40%
+    **You can change the threshold to another value in the `disk_status.py` at line 7
+    ```py
+    if int(usage) >= 40: # Change this 40 according to your needs
+    ```
+6. That's it :smile:
