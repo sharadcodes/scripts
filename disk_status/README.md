@@ -35,6 +35,6 @@
     **You can change the threshold to another value in the `disk_status.py` at line 7**
     
     ```py
-    if int(usage) >= 40: # Change this 40 according to your needs
+    if int(usage) >= 40: # Change 40 to something else according to your needs
     ```
 6. That's it :smile:
